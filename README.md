@@ -7,8 +7,12 @@
 
 
 
-![Cbarroso GitHub stats](https://github-readme-stats.vercel.app/api?username=CBarrosoBRRJ&show_icons=true&theme=dracula)
+<!-- ![Cbarroso GitHub stats](https://github-readme-stats.vercel.app/api?username=CBarrosoBRRJ&show_icons=true&theme=dracula) -->
 
+<div>  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=CBarrosoBRRJ&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
+  <img align="right" height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CBarrosoBRRJ&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
 ## Tecnologias que eu uso no meu dia
 <div style='display: inline_block'> <br/>
