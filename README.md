@@ -1,6 +1,6 @@
 <div  align="center">
   
-  # Falaaaa coisa rica, Caio aqui!! 🧑🏻‍💻
+  # Falaaaa 'coisa rica', Caio aqui!! 🧑🏻‍💻
 </div>
 
 <br>
