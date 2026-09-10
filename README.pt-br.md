@@ -2,10 +2,10 @@
 
 # Caio Barroso
 
-**AI Engineer · Senior Data Scientist**
+**Engenheiro de IA · Cientista de Dados Sênior**
 
-End-to-end data & AI systems — from raw data to models in production.<br>
-15 years across financial risk, telecom, manufacturing and media.
+Sistemas de dados e IA ponta a ponta — do dado bruto ao modelo em produção.<br>
+15 anos em risco financeiro, telecom, indústria e mídia.
 
 <br>
 
@@ -13,21 +13,21 @@ End-to-end data & AI systems — from raw data to models in production.<br>
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:barroso.ccmb@gmail.com)
 [![Website](https://img.shields.io/badge/Website-171717?style=flat-square&logo=googlechrome&logoColor=white)](https://sites.google.com/view/caiobarroso/in%C3%ADcio)
 
-<sub>🇧🇷 Leia em <a href="README.pt-br.md">português</a></sub>
+<sub>🇺🇸 Read this in <a href="README.md">English</a></sub>
 
 </div>
 
 ---
 
-### What I do
+### O que eu faço
 
-I design and ship the full lifecycle of data products: ingestion, modeling, training, deployment and monitoring. Recent work spans credit-risk models on Databricks (PySpark, MLflow), demand forecasting in telecom, LLM agents with RAG over corporate documents and structured data, and BI pipelines feeding Power BI from Python ETL.
+Projeto e entrego o ciclo completo de produtos de dados: ingestão, modelagem, treino, deploy e monitoramento. Trabalhos recentes incluem modelos de risco de crédito em Databricks (PySpark, MLflow), forecasting de demanda em telecom, agentes de LLM com RAG sobre documentos corporativos e bases estruturadas, e pipelines de BI alimentando Power BI a partir de ETL em Python.
 
-Currently: postgraduate studies in Generative AI & LLMs (PUC-Rio) and an MBA in Data Engineering (Instituto Infnet).
+Atualmente: pós-graduação em IA Generativa e LLMs (PUC-Rio) e MBA em Engenharia de Dados (Instituto Infnet).
 
 ### Stack
 
-**Data Engineering**&nbsp;&nbsp;
+**Engenharia de Dados**&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
@@ -44,7 +44,7 @@ Currently: postgraduate studies in Generative AI & LLMs (PUC-Rio) and an MBA in 
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-**Generative AI**&nbsp;&nbsp;
+**IA Generativa**&nbsp;&nbsp;
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-5A45FF?style=flat-square)
 ![Embeddings](https://img.shields.io/badge/Embeddings-171717?style=flat-square)
@@ -56,22 +56,22 @@ Currently: postgraduate studies in Generative AI & LLMs (PUC-Rio) and an MBA in 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-**Analytics & Automation**&nbsp;&nbsp;
+**Analytics & Automação**&nbsp;&nbsp;
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![monday.com](https://img.shields.io/badge/monday.com-6161FF?style=flat-square&logo=mondaydotcom&logoColor=white)
 
-### Selected repositories
+### Repositórios selecionados
 
-| Repository | Focus |
+| Repositório | Foco |
 |---|---|
-| [CASE-PRODUTIVIDADE](https://github.com/CBarrosoBRRJ/CASE-PRODUTIVIDADE) | Port unloading productivity forecasting (D+1–D+7) — hybrid moving-average + Huber residual model, WAPE 22% → 10.7% vs. baseline |
-| [POT-RAG_FINANCIAL_ANALYSIS](https://github.com/CBarrosoBRRJ/POT-RAG_FINANCIAL_ANALYSIS) | Conversational RAG over Brazilian Central Bank macro series — LangChain, ChromaDB, Streamlit, Docker |
-| [PD-KAFKA-INFRA-LAB](https://github.com/CBarrosoBRRJ/PD-KAFKA-INFRA-LAB) | Real-time tracking pipeline — 3-broker Kafka cluster, Kafka Connect → Redis, Prometheus & Grafana |
-| [PD-INFRAESTRUTURA-GOOGLE-BIGQUERY](https://github.com/CBarrosoBRRJ/PD-INFRAESTRUTURA-GOOGLE-BIGQUERY) | Flight-delay analysis pipeline on a Dockerized BigQuery emulator via REST API — Standard SQL, ANAC open data |
-| [PD-INFRAESTRUTURA-CASSANDRA-25E4_2](https://github.com/CBarrosoBRRJ/PD-INFRAESTRUTURA-CASSANDRA-25E4_2) | Query-driven Apache Cassandra modeling with 1M-row ETL — Python, Docker |
+| [CASE-PRODUTIVIDADE](https://github.com/CBarrosoBRRJ/CASE-PRODUTIVIDADE) | Previsão de produtividade de descarga portuária (D+1–D+7) — modelo híbrido média móvel + residual Huber, WAPE de 22% → 10,7% vs. baseline |
+| [POT-RAG_FINANCIAL_ANALYSIS](https://github.com/CBarrosoBRRJ/POT-RAG_FINANCIAL_ANALYSIS) | RAG conversacional sobre séries do Banco Central — LangChain, ChromaDB, Streamlit, Docker |
+| [PD-KAFKA-INFRA-LAB](https://github.com/CBarrosoBRRJ/PD-KAFKA-INFRA-LAB) | Pipeline de rastreamento em tempo real — cluster Kafka de 3 brokers, Kafka Connect → Redis, Prometheus e Grafana |
+| [PD-INFRAESTRUTURA-GOOGLE-BIGQUERY](https://github.com/CBarrosoBRRJ/PD-INFRAESTRUTURA-GOOGLE-BIGQUERY) | Pipeline de análise de atrasos aéreos em emulador BigQuery via REST API — Standard SQL, dados abertos da ANAC |
+| [PD-INFRAESTRUTURA-CASSANDRA-25E4_2](https://github.com/CBarrosoBRRJ/PD-INFRAESTRUTURA-CASSANDRA-25E4_2) | Modelagem orientada a consultas no Apache Cassandra com ETL de 1M de linhas — Python, Docker |
 
-### GitHub activity
+### Atividade no GitHub
 
 <div align="center">
 
