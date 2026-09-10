@@ -75,11 +75,6 @@ Currently: postgraduate studies in Generative AI & LLMs (PUC-Rio) and an MBA in 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=CBarrosoBRRJ&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CBarrosoBRRJ&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e" alt="Top languages"/>
-
-<br><br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CBarrosoBRRJ/CBarrosoBRRJ/output/github-contribution-grid-snake-dark.svg">
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/CBarrosoBRRJ/CBarrosoBRRJ/output/github-contribution-grid-snake.svg">
